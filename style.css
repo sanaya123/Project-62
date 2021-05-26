@@ -1,0 +1,45 @@
+#background-flowers {
+    width:85%;
+    height:900px;
+}
+
+body{
+    text-align:center;
+}
+.links{
+    float:left;
+    font-size: 30px;
+    background-color:black;
+    text-align:center;
+    padding-left:175px;
+    padding-right:185px;
+    font-family:cursive;
+    text-decoration: none;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    position:fixed;
+    cursor: pointer;
+    text-decoration:none;
+    text-decoration-line:none;
+}
+p{
+    text-align:center;
+    font-family:cursive;
+}
+h2{
+    text-align:center;
+    font-family:cursive;
+}
+.flowers{
+    height:300px;
+    width:290px;
+}
+#MyCarousel{
+    height: 600px;
+}
+.carousel-inner img{
+    text-align: center;
+    margin-top:150px;
+}
